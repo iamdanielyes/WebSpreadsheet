@@ -1,0 +1,38 @@
+.cell.header {
+    text-align: center;
+    background: #ede6e6;
+}
+
+.cell-row {
+    display: flex;
+}
+
+.cell {
+    width: 100px;
+    border: 1px solid #555;
+    height: 20px;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.cell.header.active {
+    background: rgb(30, 146, 255);
+    color: white;
+}
+
+.cell:focus {
+    background: #ddd;
+    border: 3px solid rgb(30, 146, 255);
+}
+
+#button {
+    background: green;
+    color: white;
+    border: none;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 10px;
+    cursor: pointer;
+    width: 100px;
+    height: 50px;
+}
