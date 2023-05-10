@@ -1,2 +1,2 @@
 # WebSpreadsheet
-Spreadsheet created in JavaScript, HTML, and CSS that has Excel functionalities.
+Spreadsheet created in JavaScript, HTML, and CSS, that has Excel functionalities.
